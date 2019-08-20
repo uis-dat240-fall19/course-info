@@ -24,7 +24,7 @@ project in Autograder.
    account.
 
 2. Click the "Sign in with GitHub" button in
-   [Autograder](http://autograder.ux.uis.no) to register. You will then be
+   [Autograder](http://ag.itest.run) to register. You will then be
    taken to GitHub's website.
 
 3. Approve that our Autograder application may have permission to access to the
@@ -41,7 +41,7 @@ project in Autograder.
 3. Find the course “uis-dat240-fall19” and click Sign up.
 
 4. Read through and accept the terms. You will then be invited to the
-   organization [uis-dat240-fall19](http://www.github.com/uis-dat240-fall18) on GitHub.
+   organization [uis-dat240-fall19](http://www.github.com/uis-dat240-fall19) on GitHub.
 
 5. An invitation will be sent to the email address registered with your GitHub
    account. Accept the invitation using the received email.
