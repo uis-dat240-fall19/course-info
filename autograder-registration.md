@@ -41,12 +41,12 @@ project in Autograder.
 3. Find the course “uis-dat240-fall19” and click Sign up.
 
 4. Read through and accept the terms. You will then be invited to the
-   organization [uis-dat240-fall19](http://www.github.com/uis-dat240-fall19) on GitHub.
+   organization [uis-dat240-fall19](http://www.github.com/uis-dat240-fall19) on GitHub. 
+   
+5. Wait for the teaching staff to verify your Autograder-registration.
 
-5. An invitation will be sent to the email address registered with your GitHub
-   account. Accept the invitation using the received email.
-
-6. Wait for the teaching staff to verify your Autograder-registration.
+6. After the teaching staff approves your account. An invitation will be sent to the email address registered with your GitHub
+   account. Accept the invitation using the received emails. Note that you may receive up to 4 emails please accept invitations from all of them!
 
 7. You will get your own repository in the organization "uis-dat240-fall19" on GitHub
    after your registration is verified. You will also have access to the
