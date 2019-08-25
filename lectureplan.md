@@ -8,11 +8,11 @@
 |      |  21/8     | Vinay       | Java basics, Object Oriented Programming        | [slides](https://stavanger.instructure.com/courses/4556/files/540289?module_item_id=61022)        |              |
 |      |  21/8     | Lab 1       | Setup autograder, install eclipse, github        |         |              |
 |  35  |  26/8     | Vinay       | Object Oriented Programming   (Inheritance, Polymorphism)      | [slides](https://stavanger.instructure.com/courses/4556/files/543403?module_item_id=61716)        |              |
-|      |  28/8     | Vinay       | Clean code          |         |              |
+|      |  28/8     | Vinay       | UML          |         |              |
 |      |  28/8     | Lab 2       | Work on first assignment                         |         |              |
 |    |  **28/8**     |             | **Assignment 1 due**                                |         |              
 |  36  |  02/9     | Glenn       | SOLID                                            |         |              |
-|      |  04/9     | Vinay       | Design Patterns                                  |         |              |
+|      |  04/9     | Vinay       | Clean Code/Design Patterns                                  |         |              |
 |    |  04/9     |   Lab 3        |  Work on second assignment                               |         |              |
 |  37  |  09/9     | Glenn       | Testing (Unit testing, TDD)                                                 |         |              |
 |      |  11/9     | Vinay       | Generics and template, Testing Exercises (katas TDD style)                                                 |         |                      |
