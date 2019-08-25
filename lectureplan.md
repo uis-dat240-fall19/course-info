@@ -4,10 +4,10 @@
 
 | W    |  Date     | Teacher     | Topic                                            | Resources | Travels / Remarks     |
 |:----:|:---------:|:-------:    |--------------------------------------------------|:-------:|:------------:|
-|  34  |  19/8     | Vinay       | Introduction to the course, Software Engineering          |         |              |
-|      |  21/8     | Vinay       | Java basics, Object Oriented Programming        |         |              |
+|  34  |  19/8     | Vinay       | Introduction to the course, Software Engineering          |  [slides](https://stavanger.instructure.com/courses/4556/files/536889?module_item_id=59853)       |              |
+|      |  21/8     | Vinay       | Java basics, Object Oriented Programming        | [slides](https://stavanger.instructure.com/courses/4556/files/540289?module_item_id=61022)        |              |
 |      |  21/8     | Lab 1       | Setup autograder, install eclipse, github        |         |              |
-|  35  |  26/8     | Vinay       | Object Oriented Programming   (Inheritance, Polymorphism)      |         |              |
+|  35  |  26/8     | Vinay       | Object Oriented Programming   (Inheritance, Polymorphism)      | [slides](https://stavanger.instructure.com/courses/4556/files/543403?module_item_id=61716)        |              |
 |      |  28/8     | Vinay       | Clean code          |         |              |
 |      |  28/8     | Lab 2       | Work on first assignment                         |         |              |
 |    |  **28/8**     |             | **Assignment 1 due**                                |         |              
