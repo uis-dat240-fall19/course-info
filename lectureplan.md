@@ -17,8 +17,8 @@
 |  37  |  09/9     | Glenn       | Testing (Unit testing, TDD)                                                 |         |              |
 |      |  11/9     | Vinay       | Generics and template, Testing Exercises (katas TDD style)                                                 |         |                      |
 |      |  11/9     | Lab 4       |  Work on second assignment                                                 |         |              |
-|    |  **11/9**     |             | **Assignment 2 due**                                |         |              
 |  38  |  16/9     | Glenn       | Application design                                                 |         |              |
+|    |  **17/9**     |             | **Assignment 2 due**                                |         |              
 |      |  18/9     | Vinay       | Project design  (usecases)                                               |         |              |
 |      |  18/9     |  Lab 5       |   Work on third assignment                                               |         |              |
 |  39  |  23/9     | Glenn       | Agile (Scrum, Kanban, Flow and lean, User Stories)                                                 |         |              |
