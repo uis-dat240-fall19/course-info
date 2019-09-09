@@ -10,11 +10,11 @@
 | 35 |   26/08   | Vinay | Object Oriented Programming (Inheritance, Polymorphism) | [slides](https://stavanger.instructure.com/courses/4556/files/543403?module_item_id=61716) | |
 |    |   28/08   | Vinay | UML | | |
 |    |   28/08   | Lab 2 | Work on first assignment |||
-| 36 |   02/09   | Glenn | SOLID |||
+| 36 |   02/09   | Glenn | SOLID | [slides](https://stavanger.instructure.com/courses/4556/files/folder/Solid#)||
 |    | **03/09** |       | **Assignment 1 due**  | | 
 |    |   04/09   | Vinay | Clean Code/Design Patterns | | |
 |    |   04/09   | Lab 3 | Work on second assignment | | |
-| 37 |   09/09   | Glenn | Testing (Unit testing, TDD) | | |
+| 37 |   09/09   | Glenn | Testing (Unit testing, TDD) | [Whiteboard and code](https://stavanger.instructure.com/courses/4556/files/folder/Testing) | |
 |    |   11/09   | Vinay | Generics and template, Testing Exercises (katas TDD style) | | |
 |    |   11/09   | Lab 4 | Work on second assignment | | |
 | 38 |   16/09   | Glenn | Application design | | |
