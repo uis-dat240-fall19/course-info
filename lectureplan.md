@@ -17,7 +17,7 @@
 | 37 |   09/09   | Glenn | Testing (Unit testing, TDD) | [Whiteboard and code](https://stavanger.instructure.com/courses/4556/files/folder/Testing) | |
 |    |   11/09   | Vinay | Generics and template, Testing Exercises (katas TDD style) | | |
 |    |   11/09   | Lab 4 | Work on second assignment | | |
-| 38 |   16/09   | Glenn | Application design | | |
+| 38 |   16/09   | Glenn | Application design | [Whiteboard](https://stavanger.instructure.com/courses/4556/files/folder/DDD?preview=565720) | |
 |    | **17/09** |       | **Assignment 2 due**  | | 
 |    |   18/09   | Vinay | Project design (usecases) | | |
 |    |   18/09   | Lab 5 | Work on third assignment | | |
