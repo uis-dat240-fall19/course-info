@@ -40,11 +40,11 @@
 | 44 |   28/10   |       | Work on project | | |
 |    |   30/10   |       | Work on project | | |
 |    |   30/10   |       | Work on project | | |
-| 45 |   04/11   | Vinay | Project due and oral exam | | |
+| 45 |   04/11   | Vinay | Project due| | |
 |    |   06/11   | Vinay | project oral exam | | |
 |    |   06/11   |       | | | | 
 | 46 |   11/11   |       | | | | 
-|    |   13/11   | Vinay | | | |
+|    |   13/11   | Vinay | Project oral exam | | |
 |    |   13/11   |       | | | | 
 | 47 |   18/11   |       | Written Exam | | |
 |    |   20/11   | Vinay | | | |
