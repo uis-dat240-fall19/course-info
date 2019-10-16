@@ -32,10 +32,10 @@
 |    |   09/10   | Vinay |  | | |
 |    |   09/10   |       | | | | 
 | 42 |   14/10   | Glenn | Docker | | |
-|    |   16/10   | Vinay | Functional programming | | |
+|    |   16/10   | Vinay | Java Collections, Comparable and deploying springboot to Google cloud platform | | |
 |    |   16/10   |       | | | | 
-| 43 |   21/10   |       | Work on project | | |
-|    |   23/10   |       | Work on project | | |
+| 43 |   21/10   |  Glenn     |  | | |
+|    |   23/10   |   Vinay    | Java concurrency | | |
 |    |   23/10   |       | Work on project | | |
 | 44 |   28/10   |       | Work on project | | |
 |    |   30/10   |       | Work on project | | |
