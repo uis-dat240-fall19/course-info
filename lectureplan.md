@@ -38,7 +38,7 @@
 |    |   23/10   |   Vinay    | Java concurrency | | |
 |    |   23/10   |       | Work on project | | |
 | 44 |   28/10   |       | Work on project | | |
-|    |   30/10   |       | Work on project | | |
+|    |   30/10   | Vinay      | Java concurrency and wrap up | | |
 |    |   30/10   |       | Work on project | | |
 | 45 |   04/11   | Vinay | Project due| | |
 |    |   06/11   | Vinay | project oral exam | | |
