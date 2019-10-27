@@ -43,7 +43,7 @@
 | 45 |   04/11   | Vinay | Project due| | |
 |    |   06/11   | Vinay | project oral exam | | |
 |    |   06/11   |       | | | | 
-| 46 |   11/11   |       | | | | 
+| 46 |   11/11   |       | Project oral exam | | | 
 |    |   13/11   | Vinay | Project oral exam | | |
 |    |   13/11   |       | | | | 
 | 47 |   18/11   |       | Written Exam | | |
